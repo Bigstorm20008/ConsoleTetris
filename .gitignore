@@ -1,0 +1,11 @@
+
+*.opensdf
+Debug
+*.sdf
+*.suo
+*.vcxproj
+*.filters
+*.obj
+*.log
+*.pdb
+*.tlog
